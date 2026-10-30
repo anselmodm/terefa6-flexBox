@@ -1,0 +1,53 @@
+
+body{
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 750px;
+    
+    
+}
+.head{
+    max-width: 750px;
+    margin: 120px auto;
+}
+.titulo {
+    background-color: rgb(69, 127, 145);
+    border-radius: 12px;
+}
+h1{
+    color: brown;
+}
+
+h2{
+    color:dimgrey
+}
+
+
+.foot{
+    max-width: 750px;
+    margin: 120px auto;
+}
+
+.foot p{
+    font-size: 12px;
+    max-width: 550px;
+}
+
+.carros-container{
+    background-color: rgb(206, 193, 224);
+    font-size: 16px;
+    width: 750px;
+    height: auto;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+
+img{
+    border-radius: 12px;
+    max-width: 750px;
+    
+}
